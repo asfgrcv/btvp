@@ -1,8 +1,0 @@
-{
-  "name": "btvw-0406", // 将 "btvp-worker" 替换为您希望的 worker 名称
-  "compatibility_date": "2025-04-06", // 使用当前的兼容日期
-  "main": "src/index.ts",
-  "compatibility_flags": [
-    "nodejs_compat"
-  ]
-}
