@@ -1,6 +1,6 @@
 {
   "name": "btvp",
-  "main": "src/index.ts",
+  "main": "_worker.js",
   "compatibility_flags": [
     "nodejs_compat"
   ]
