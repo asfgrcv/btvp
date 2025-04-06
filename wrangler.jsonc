@@ -1,6 +1,5 @@
 {
-  "name": "btvp-worker",
-  "compatibility_date": "2025-04-06",
+  "name": "btvp",
   "main": "src/index.ts",
   "compatibility_flags": [
     "nodejs_compat"
